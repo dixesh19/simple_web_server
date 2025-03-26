@@ -22,5 +22,9 @@ Testing the webserver.
 
 # PROGRAM:
 # OUTPUT:
+![Screenshot (63)](https://github.com/user-attachments/assets/d9fb69d9-4835-44cd-8c73-87b0dbf41e51)
+
+![Screenshot (62)](https://github.com/user-attachments/assets/2ce8d824-957a-41a7-8edf-f382057e6c64)
+
 # RESULT:
 The program for implementing simple webserver is executed successfully.
