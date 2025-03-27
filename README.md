@@ -189,9 +189,7 @@ from app1 import views
 urlpatterns = [
     path('admin/', admin.site.urls),
 ]
-
-'''
-
+```
 # OUTPUT:
 ![Screenshot (63)](https://github.com/user-attachments/assets/d9fb69d9-4835-44cd-8c73-87b0dbf41e51)
 
